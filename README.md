@@ -12,7 +12,7 @@
     
     const nombreMayusculas = [];
 
-    Utiliza la funcioón forEach para recorrer cada elemento del arreglo nombres. En cada iteración debes agregar el nombre en mayusculas en el arreglo nombreMayusculas
+    Utiliza la función forEach para recorrer cada elemento del arreglo nombres. En cada iteración debes agregar el nombre en mayusculas en el arreglo nombreMayusculas
     
     Usando un console.log, imprime el resultado. Debes tener el siguiente resultado
     ALBERTO, PATY, JOSE, DANIEL, LUIS, ANTONIO, LUIS, PATY, LUIS
