@@ -9,6 +9,7 @@
 
 2. Crear 2 arreglos como los siguientes
     const nombres = ['alberto', 'paty', 'Jose', 'daniel', 'luis', 'antonio', 'Luis', 'paty', 'luis'];
+    
     const nombreMayusculas = [];
 
     Utiliza la funcioón forEach para recorrer cada elemento del arreglo nombres. En cada iteración debes agregar el nombre en mayusculas en el arreglo nombreMayusculas
